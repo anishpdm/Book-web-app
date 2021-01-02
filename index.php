@@ -34,7 +34,7 @@
 
 <tr>
     <td></td>
-    <td>  <button name="subbtn" class="btn btn-success">SUBMIT</button></td>
+    <td>  <button name="subbtn" class="btn btn-primary">SUBMIT</button></td>
 </tr>
 </table>
 </form>
